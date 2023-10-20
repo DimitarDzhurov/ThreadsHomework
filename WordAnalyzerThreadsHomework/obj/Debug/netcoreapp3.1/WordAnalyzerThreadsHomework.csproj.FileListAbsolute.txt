@@ -1,0 +1,14 @@
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.deps.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.runtimeconfig.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.runtimeconfig.dev.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.dll
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/bin/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.pdb
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.csproj.AssemblyReference.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.AssemblyInfoInputs.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.AssemblyInfo.cs
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.csproj.CoreCompileInputs.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.dll
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.pdb
+/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/obj/Debug/netcoreapp3.1/WordAnalyzerThreadsHomework.genruntimeconfig.cache
